@@ -11,5 +11,9 @@ Contiene:
 - Funciones/clases utiles para utilizar en Pipelines, transformers que permiten convertir categorias, generar dummies etc. de manera mas sofisticada que la estandar de Pandas / Scikit Learn
 
 
+> Todo: Convertir esto en una libreria instalable con una instruccion pip
+
+
+
 
 
